@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OpenXmlA/1.0.0": {
+        "runtime": {
+          "OpenXmlA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenXmlA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

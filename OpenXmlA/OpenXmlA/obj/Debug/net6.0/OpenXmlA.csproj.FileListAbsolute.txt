@@ -1,0 +1,17 @@
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\bin\Debug\net6.0\OpenXmlA.exe
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\bin\Debug\net6.0\OpenXmlA.deps.json
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\bin\Debug\net6.0\OpenXmlA.runtimeconfig.json
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\bin\Debug\net6.0\OpenXmlA.dll
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\bin\Debug\net6.0\OpenXmlA.pdb
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\obj\Debug\net6.0\OpenXmlA.csproj.AssemblyReference.cache
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\obj\Debug\net6.0\OpenXmlA.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\obj\Debug\net6.0\OpenXmlA.AssemblyInfoInputs.cache
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\obj\Debug\net6.0\OpenXmlA.AssemblyInfo.cs
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\obj\Debug\net6.0\OpenXmlA.csproj.CoreCompileInputs.cache
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\obj\Debug\net6.0\OpenXmlA.dll
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\obj\Debug\net6.0\refint\OpenXmlA.dll
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\obj\Debug\net6.0\OpenXmlA.pdb
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\obj\Debug\net6.0\OpenXmlA.genruntimeconfig.cache
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\obj\Debug\net6.0\ref\OpenXmlA.dll
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Excel.dll
+D:\ProLan\csharp\EXCEL\OpenXmlA\OpenXmlA\obj\Debug\net6.0\OpenXmlA.csproj.ResolveComReference.cache
